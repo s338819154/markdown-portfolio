@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Tv Shows
+* Brooklyn Nine Nine
+*Friends
+Lucifer
