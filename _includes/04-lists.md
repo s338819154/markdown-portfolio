@@ -1,4 +1,7 @@
 Tv Shows
-* Brooklyn Nine Nine
+
+Brooklyn Nine-Nine
+
 *Friends
-Lucifer
+
+*Lucifer
