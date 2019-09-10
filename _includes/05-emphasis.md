@@ -1,9 +1,9 @@
 **My attributes** 
 
-*Considerate*
+_Considerate_
 
-*Relatbale* 
+_Relatbale_
 
-*Funny*
+-Funny_
 
 ***Stupid***
